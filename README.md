@@ -17,7 +17,7 @@
 A simple mod that adds a few H&M tee shirts for your sims to wear.
 
 # Installation
-Download the **.package** file and place in your mod folder. 
+Download the **.package** file and place in your mod folder. Download the file by clicking on the file and then click **Download** on the right side.
 
 # Preview
 <img src="source/images/hmgoepprod%20(1).jpg" width="128"><img src="source/images/hmgoepprod%20(2).jpg" width="128"><img src="source/images/hmgoepprod%20(3).jpg" width="128"><img src="source/images/hmgoepprod%20(4).jpg" width="128"><img src="source/images/hmgoepprod%20(5).jpg" width="128"><img src="source/images/hmgoepprod%20(6).jpg" width="128"><img src="source/images/hmgoepprod%20(7).jpg" width="128"><img src="source/images/hmgoepprod%20(9).jpg" width="128"><img src="source/images/hmgoepprod%20(10).jpg" width="128"><img src="source/images/hmgoepprod%20(11).jpg" width="128">
